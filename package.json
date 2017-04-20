@@ -1,6 +1,6 @@
 {
   "name": "acquia-lift",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Interact with Acquia Lift APIs",
   "main": "index.js",
   "author": "Dave Ingram",
